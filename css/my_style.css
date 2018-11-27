@@ -1,0 +1,60 @@
+
+.cont {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#page-head {
+    display: inline-block;
+    padding: 70px ;
+    width: 100%;
+    background: no-repeat fixed center;
+    background-size: cover;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .7);
+    background-image:url(https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/EdTech/201706/welcomia_Coding.jpg?itok=2B9_vddh);
+}
+.phar{
+    font-size: 130%
+}
+.faq_sec {
+    background-image:url(https://www.windowscentral.com/sites/wpcentral.com/files/styles/large_wm_blw/public/field/image/2018/03/4k-nebulas-huawei-matebook-x-pro.jpg?itok=aOz_jbye);
+    -webkit-filter: brightness(80%);
+    filter: brightness(80%);
+    width: 90%;
+}
+.rank {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.col-xs-12_1 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.title_1 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: white;
+}
+#izquierda { 
+    position: relative;
+    width: 90%; 
+    top: 0; left: 0; 
+    background: #ccc; 
+    float: left; 
+    height: 200px; 
+} 
+
+
